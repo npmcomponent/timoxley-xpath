@@ -1,0 +1,8 @@
+{
+  "name": "timoxley-xpath",
+  "description": "XPath utilities extracted from Firebug.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
+}
